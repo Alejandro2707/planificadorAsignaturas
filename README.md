@@ -2,7 +2,7 @@
 # Planificador de Asignaturas
 
 Universidad Nacional Experimental de Guayana (UNEG)
-Cátedra: Ingeniería en Informática
+Carrera: Ingeniería en Informática
 
 ## Descripción del Proyecto
 
