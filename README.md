@@ -26,7 +26,7 @@ Siga estos pasos detallados para poner en marcha la aplicación en su máquina l
 ### 1. Clonar el repositorio u Obtener el Código
 Copie la URL del repositorio y ejecute el siguiente comando en su terminal para clonar el proyecto de forma local:
 ```bash
-git clone [https://github.com/Alejandro2707/planificadorAsignaturas.git](https://github.com/Alejandro2707/planificadorAsignaturas.git)
+git clone https://github.com/Alejandro2707/planificadorAsignaturas.git
 
 ```
 
@@ -39,15 +39,7 @@ git clone [https://github.com/Alejandro2707/planificadorAsignaturas.git](https:/
 3. Busque y seleccione la carpeta `planificadorasignaturas` del proyecto.
 4. Asegúrese de que el entorno esté configurado para utilizar la versión de **JDK 8 o superior** instalada en su sistema.
 
-### 3. Verificación de la Estructura de Paquetes
-
-Asegúrese de que los archivos fuente mantengan la siguiente estructura de directorios y paquetes para evitar errores de compilación por rutas o referencias:
-
-* `modelo/`: Contiene las clases `Asignatura.java` y `GestionPensum.java`.
-* `vista/`: Contiene la clase `InterfazPrincipal.java`.
-* Raíz del proyecto: Contiene el archivo de arranque `Main.java`.
-
-### 4. Compilación y Ejecución
+### 3. Compilación y Ejecución
 
 1. En el panel de navegación de proyectos de su IDE, localice y seleccione la clase principal de arranque: **`Main.java`**.
 2. Ejecute el archivo como una aplicación Java estándar (por ejemplo, haciendo clic derecho y seleccionando `Run File`, o presionando `Shift + F6` en NetBeans).
